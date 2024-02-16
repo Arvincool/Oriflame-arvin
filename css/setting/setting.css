@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sansc; }
+
+@font-face {
+  font-family: sans;
+  src: url(./font/sans-regular.eot); }
+
+@font-face {
+  font-family: sansb;
+  src: url(./font/sans-regular.otf); }
+
+@font-face {
+  font-family: sansc;
+  src: url(./font/sans-regular.ttf); }
